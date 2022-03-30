@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OnefootballCodingChallenge</string>
+    <string name="image_desc">News Image</string>
+    <string name="icon_desc">Resource Icon</string>
+    <string name="unable_to_read">Unable to get news</string>
+    <string name="something_went_wrong">Something went wrong</string>
+</resources>
